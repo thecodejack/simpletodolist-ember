@@ -1,0 +1,7 @@
+body{
+	background: url("../geometry.png");
+}
+.is-done{
+	text-decoration: line-through;
+	color: grey;
+}
